@@ -1,0 +1,14 @@
+{
+    "name": "body_sway_slow",
+    "type": "body_sway",
+    "duration": 10.0,
+    "fps": 50,
+    "params": {
+      "sway_amplitude_deg": 7.5,
+      "sway_frequency_hz": 0.55,
+      "hip_roll_gain": 0.65,
+      "lateral_shift_m": 0.012,
+      "knee_flex_rad": -0.18,
+      "head_roll_gain": 0.35
+    }
+  }
