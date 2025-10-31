@@ -92,5 +92,4 @@ uv run scripts/generate_custom_motions_placo.py --duck go_bdx --motion all --dur
 
 Notes
 - `--motion` can be one of: `head_roll`, `head_pitch`, `body_sway`, `jump`, or `all`
-- You can also pass a JSON config: `--motion motion_category/body_sway_config.json`
 - Outputs are saved as `recordings/custom_*.json` and are compatible with both replay scripts
